@@ -66,5 +66,5 @@ jupyter notebook
 ## Auteures
 
 - **Serena Pot** — [@Aid4n4](https://github.com/Aid4n4)
-- **Maély Thomas** — binôme
+- **Maély Thomas** — [@Nekokimi0](https://github.com/Nekokimi0)
 - Université Lyon 2, janvier 2026
